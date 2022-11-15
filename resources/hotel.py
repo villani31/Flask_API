@@ -54,7 +54,7 @@ def normalize_path_params(estado=None, estrelas_min = 0,
 
 # path
 path_params = reqparse.RequestParser()
-path_params.add_argument("cidade", type=str)
+path_params.add_argument("estado", type=str)
 path_params.add_argument("estrelas_min", type=float)
 path_params.add_argument("estrelas_max", type=float)
 path_params.add_argument("diaria_min", type=float)
