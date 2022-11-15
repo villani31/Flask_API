@@ -19,6 +19,7 @@ Uma das regras do REST é que você deve obter um dado (um recurso) ao vincular 
 Uma solicitação consiste em um endpoint (a URL que você solicita), um método que define o tipo de solicitação enviada ao servidor; cabeçalhos, que representam os metadados; e dados. 
 
 **Métodos REST**
+
 Você provavelmente já ouviu falar dos principais métodos associados às APIs REST:
 
 **GET**: O servidor encontra os dados solicitados e os envia para você quando a solicitação GET é usada.
