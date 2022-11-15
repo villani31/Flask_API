@@ -22,8 +22,11 @@ Uma solicitação consiste em um endpoint (a URL que você solicita), um método
 Você provavelmente já ouviu falar dos principais métodos associados às APIs REST:
 
 **GET**: O servidor encontra os dados solicitados e os envia para você quando a solicitação GET é usada.
+
 **PUT**: Usar solicitações PUT significa que o servidor atualiza uma entrada do banco de dados.
+
 **POST**: Com o método POST, o servidor cria uma entrada de banco de dados.
+
 **DELETE**: Como o nome indica, o servidor exclui uma entrada do banco de dados com uma solicitação DELETE.
 
 ----------------------------------------------------------------
