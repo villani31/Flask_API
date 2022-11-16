@@ -30,6 +30,11 @@ Você provavelmente já ouviu falar dos principais métodos associados às APIs 
 
 **DELETE**: Como o nome indica, o servidor exclui uma entrada do banco de dados com uma solicitação DELETE.
 
+As API REST se tornou uma peça fundamental no desenvolvimento de aplicações multiplataforma, isso porque a tecnologia garante mais agilidade nos processos e na comunicação entre softwares, proporcionando mais possibilidades de automatização e criação de novas soluções digitais.
+
+-------------------------
+Projeto criado a partir de um curso que estava participando, o código que tem nesse projeto foi utilizado a ferramenta de **Postman** para fazer todos os teste, usando os métodos descrito a cima.
+
 ----------------------------------------------------------------
 
 Para conhecer mais sobre meus projetos:
