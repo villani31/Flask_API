@@ -16,7 +16,7 @@ Quando um cliente, um programa que faz uma solicitação para se conectar a uma 
 
 Uma das regras do REST é que você deve obter um dado (um recurso) ao vincular a uma URL específica. As APIs REST permitem que uma solicitação de um recurso vá do cliente para o servidor e, em seguida, que as informações relevantes sejam enviadas de volta como resposta.
 
-Uma solicitação consiste em um endpoint (a URL que você solicita), um método que define o tipo de solicitação enviada ao servidor, cabeçalhos, que representam os metadados; e dados. 
+Uma solicitação consiste em um endpoint (a URL que você solicita), um método que define o tipo de solicitação enviada ao servidor, cabeçalhos, que representam os metadados e dados. 
 
 **Métodos REST**
 
